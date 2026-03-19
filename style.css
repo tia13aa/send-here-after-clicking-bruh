@@ -1,0 +1,11 @@
+img{
+    width: 80px;
+    height: 80px;
+}
+body {
+    text-align: center;
+    font-family:'Times New Roman';
+    background: #f59c9a;
+    background-size: cover;
+    color: rgb(69,21,27);
+}
